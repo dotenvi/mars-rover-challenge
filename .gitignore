@@ -16,3 +16,6 @@ out/
 
 # Test coverage
 coverage/
+
+# VS Code
+.vscode
