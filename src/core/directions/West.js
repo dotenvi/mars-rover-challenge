@@ -1,7 +1,7 @@
-import { Coordinates } from "../Coordinates";
-import { IDirection } from "./IDirection";
-import { North } from "./North";
-import { South } from "./South";
+import { Coordinates } from "../Coordinates.js";
+import { IDirection } from "./IDirection.js";
+import { North } from "./North.js";
+import { South } from "./South.js";
 
 export class West extends IDirection {
   turnLeft() {
